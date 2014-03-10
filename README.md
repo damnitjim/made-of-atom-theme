@@ -2,4 +2,4 @@ made-of-atom-theme
 ==================
 
 Atom Editor port of Mark Dodwell's Made of Code Theme http://www.madeofcode.com
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![Theme Screenshot](damnitjim.github.com/repository/img/made_of_atom_screenshot.png)
